@@ -24,3 +24,4 @@ num2 = float(input("두 번째 숫자를 입력하세요: "))
 print("더하기 결과:", add(num1, num2))
 print("빼기 결과:", subtract(num1, num2))
 print("곱하기 결과:", multiply(num1, num2))
+# 이 줄은 로컬 컴퓨터에서 추가했습니다.
